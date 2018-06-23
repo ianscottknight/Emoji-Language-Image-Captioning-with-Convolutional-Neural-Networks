@@ -3,11 +3,13 @@
 ## Ian Scott Knight
 
 Department of Symbolic Systems, Stanford University
+
 isknight@stanford.edu
 
 ## Rayne Hernandez 
 
 Department of Matheatical and Computational Science, Stanford University 
+
 rayne@stanford.edu
 
 ## Abstract
@@ -120,7 +122,6 @@ The following demonstrates the difference in accuracies between the models for n
 
 <img width="827" alt="screen shot 2018-06-23 at 5 32 50 am" src="https://user-images.githubusercontent.com/25094252/41808716-4032dc6c-76a7-11e8-814d-8e08da9a5167.png">
 
-
 #### 5.5.1 Best Model
 
 The 7-layer architecture was found to be the best model with a recall of 0.526. Here is the training loss:
@@ -139,8 +140,9 @@ The following results come from testing the trained 7-layer model on the test se
 
 ## 6 Conclusion
 
-For evaluation, it was not initially clear what sort of metrics we should utilize to quantify our success. We settled on recall as our primary metric: the ratio of true labels that were produced in the corresponding predicted labels. We decided not to use precision for the reason that the predicted labels are forced to be different while the true labels are allowed to be duplicates of the same emoji class(es).
-Further, we developed a compromised accuracy metric where we counted a predicted output as correct so long as at least n of the true labels were produced in the predicted output. We calculated this metric for n=1, n=2, , n=5 and graphed the results.
+For evaluation, it was not initially clear what sort of metrics we should utilize to quantify our success. We settled on recall as our primary metric: the fraction of true labels that were produced in the corresponding predicted labels. We decided not to use precision for the reason that the predicted labels are forced to be unique while the true labels are allowed to have duplicates of the same emoji class(es).
+
+Further, we developed a synthetic accuracy metric where we counted a predicted output as correct so long as at least n of the true labels were produced in the predicted output. We calculated this metric for n=1, n=2, ..., n=5 and graphed the results.
 Moreover, there should be an element of subjectivity in our evaluation technique, for two reasons:
 
 (1) There is a tolerable degree of inaccuracy in our true emoji labels for each image, arising from the lack of emoji representations for all ideas in the English language. For example, an image of a giraffe is assigned a emoji labels of a rhinoceros and an elephant since there is no giraffe emoji.

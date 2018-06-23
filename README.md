@@ -34,6 +34,10 @@ To accomplish preprocessing we leverage emoji2vec in order to translate text cap
 
 ## 4 Methods
 
+<img width="521" alt="screen shot 2018-06-23 at 5 34 47 am" src="https://user-images.githubusercontent.com/25094252/41808722-40a5a92c-76a7-11e8-83b1-ea63806ec731.png">
+
+<img width="521" alt="screen shot 2018-06-23 at 5 34 38 am" src="https://user-images.githubusercontent.com/25094252/41808721-40975f48-76a7-11e8-91f8-f3ecb98bb8a5.png">
+
 ### 4.1 Preprocessing
 
 #### 4.1.1 Text-to-Emoji Translation
@@ -132,10 +136,6 @@ The following results come from testing the trained 7-layer model on the test se
 <img width="695" alt="screen shot 2018-06-23 at 5 34 09 am" src="https://user-images.githubusercontent.com/25094252/41808719-4075ec50-76a7-11e8-80c4-69d4029cc710.png">
 
 <img width="862" alt="screen shot 2018-06-23 at 5 34 23 am" src="https://user-images.githubusercontent.com/25094252/41808720-4086aa86-76a7-11e8-92d9-f046e1821e7e.png">
-
-<img width="521" alt="screen shot 2018-06-23 at 5 34 38 am" src="https://user-images.githubusercontent.com/25094252/41808721-40975f48-76a7-11e8-91f8-f3ecb98bb8a5.png">
-
-<img width="521" alt="screen shot 2018-06-23 at 5 34 47 am" src="https://user-images.githubusercontent.com/25094252/41808722-40a5a92c-76a7-11e8-83b1-ea63806ec731.png">
 
 ## 6 Conclusion
 

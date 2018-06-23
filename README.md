@@ -1,12 +1,14 @@
 # Emoji-Language Image Captioning with Convolutional Neural Networks
 
-## Ian Scott Knight
+## Authors
+
+### Ian Scott Knight
 
 Department of Symbolic Systems, Stanford University
 
 isknight@stanford.edu
 
-## Rayne Hernandez 
+### Rayne Hernandez 
 
 Department of Matheatical and Computational Science, Stanford University 
 

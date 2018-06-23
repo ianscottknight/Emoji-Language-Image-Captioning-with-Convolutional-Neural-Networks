@@ -1,4 +1,4 @@
-# Emoji-Language-Image-Captioning with Convolutional Neural Networks
+# Emoji-Language Image Captioning with Convolutional Neural Networks
 
 ## Ian Scott Knight
 

@@ -34,9 +34,9 @@ To accomplish preprocessing we leverage emoji2vec in order to translate text cap
 
 ## 4 Methods
 
-<img width="521" alt="screen shot 2018-06-23 at 5 34 47 am" src="https://user-images.githubusercontent.com/25094252/41808722-40a5a92c-76a7-11e8-83b1-ea63806ec731.png">
-
 <img width="521" alt="screen shot 2018-06-23 at 5 34 38 am" src="https://user-images.githubusercontent.com/25094252/41808721-40975f48-76a7-11e8-91f8-f3ecb98bb8a5.png">
+
+<img width="521" alt="screen shot 2018-06-23 at 5 34 47 am" src="https://user-images.githubusercontent.com/25094252/41808722-40a5a92c-76a7-11e8-83b1-ea63806ec731.png">
 
 ### 4.1 Preprocessing
 

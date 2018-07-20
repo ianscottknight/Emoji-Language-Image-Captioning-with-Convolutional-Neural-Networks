@@ -10,7 +10,7 @@ isknight@stanford.edu
 
 ### Rayne Hernandez 
 
-Department of Matheatical and Computational Science, Stanford University 
+Department of Mathematical and Computational Science, Stanford University 
 
 rayne@stanford.edu
 
